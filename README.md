@@ -40,7 +40,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="Scikit-Learn"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" alt="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Apache_Airflow_logo.svg" width="40" alt="Airflow"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" width="40" alt="Airflow"/>
   <img src="https://www.vectorlogo.zone/logos/onnxai/onnxai-icon.svg" width="40" alt="ONNX"/>
 </p>
 
