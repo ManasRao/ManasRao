@@ -15,7 +15,7 @@
 - 📍 Santa Clara, CA | Open to Data Analyst, Data Engineer, and ML Roles (Available Summer 2025)  
 - 🧪 Researcher @ VT Social Dynamics Lab – simulated GPT-4 agents using LangChain for human-like epidemic modeling  
 - 🏗️ Data Engineer @ Northern Tool – built Snowflake + Azure pipelines, optimized 1M+ row PostgreSQL workflows  
-- 📊 Analyst @ Epromptus – automated reporting pipelines & anomaly detection with Airflow + SQL  
+- 📊 Ml Engineer @ Epromptus – automated reporting pipelines & anomaly detection with Airflow + SQL  
 - 💡 Passionate about BI systems, LLMs, real-time ML pipelines, and interactive data platforms  
 
 ---
