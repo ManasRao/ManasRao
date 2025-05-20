@@ -1,93 +1,112 @@
 <h1 align="center">Hi there! I'm Sai Manas Rao Pulakonti 👋</h1>
-<h3 align="center">Data Analyst | Data Engineer | AI/ML Developer | Cloud & Full Stack Enthusiast</h3>
+<h3 align="center">Software Engineer | AI/ML Developer | Full Stack & Cloud Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:saimanasraop@vt.edu">📫 Email</a> •
-  <a href="https://www.linkedin.com/in/saimanasraop/">💼 LinkedIn</a> •
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">💻 GitHub</a>
+  <a href="mailto:saimanasraop@vt.edu">Email</a> •
+  <a href="https://www.linkedin.com/in/saimanasraop/">LinkedIn</a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Master’s in Computer Science @ Virginia Tech (GPA: 3.85)  
-- 📍 Santa Clara, CA | Open to Data Analyst, Data Engineer, and ML Roles (Available Summer 2025)  
-- 🧪 Researcher @ VT Social Dynamics Lab – simulated GPT-4 agents using LangChain for human-like epidemic modeling  
-- 🏗️ Data Engineer @ Northern Tool – built Snowflake + Azure pipelines, optimized 1M+ row PostgreSQL workflows  
-- 📊 Ml Engineer @ Epromptus – automated reporting pipelines & anomaly detection with Airflow + SQL  
-- 💡 Passionate about BI systems, LLMs, real-time ML pipelines, and interactive data platforms  
+- ✅ GenAI Certified Professional (Oracle)
+- 🎓 Graduate Student @ Virginia Tech | Master’s in Computer Science (GPA: 3.85)
+- 🔬 Researcher in LLMs at the Social Dynamics Lab – built generative agent simulations using GPT-4 + LangChain  
+- 🏗️ Data Engineer @ Northern Tool – productionized Azure/Snowflake pipelines & built CI/CD workflows  
+- 🤖 2 years of ML Engineering @ Epromptus – deployed real-time NLP & time-series ML models to AWS SageMaker  
+- 🧠 3+ years of hands-on AI/ML experience building end-to-end systems from model training to cloud deployment  
+- 🧰 Passionate about full-stack systems, vector search & recommendation engines, and ML-powered web apps
 
 ---
 
-### 🛠️ Skills & Stack
+### 🛠️ Technical Skills
 
-**Languages**: Python, SQL, R, Java, TypeScript, KQL  
-**Cloud & Infra**: AWS, Azure, GCP, Snowflake, Terraform, Docker, Kubernetes  
-**Data Tools**: Airflow, Azure Data Factory, dbt (style), Vertex AI, S3, GKE  
-**Analytics & BI**: Tableau, Power BI, Excel, Grafana, Prometheus, Pandas, NumPy, Seaborn  
-**Databases**: PostgreSQL, BigQuery, Snowflake, MySQL  
-**Full Stack**: React.js, Node.js, FastAPI, HTML5, CSS3, Bootstrap  
+<h4>Languages & Cloud</h4>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" alt="AWS"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" alt="Azure"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" alt="GCP"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" alt="Terraform"/>
+</p>
+
+<h4>AI/ML & Data</h4>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="Scikit-Learn"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" alt="NumPy"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" width="40" alt="Airflow"/>
+  <img src="https://www.vectorlogo.zone/logos/onnxai/onnxai-icon.svg" width="40" alt="ONNX"/>
+</p>
+
+<h4>Full Stack & APIs</h4>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" alt="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+</p>
 
 ---
 
-### 🔍 Experience Highlights
+### 🔭 Current Focus
 
-**🔬 Research Student – Social Dynamics Lab, VT**  
-*Built LangChain+GPT-4 agent simulations for outbreak modeling and monitored LLM behavior using Grafana dashboards.*
-
-**🧪 Data Engineer – Northern Tool + Equipment**  
-*Streamlined Azure + Snowflake pipelines, automated anomaly detection, and optimized large PostgreSQL workloads.*
-
-**📊 Data Analyst Co-op – Epromptus**  
-*Deployed end-to-end reporting systems using Python + SQL + Airflow and built self-serve BI dashboards for 8+ teams.*
-
----
-
-### 💻 Key Projects
-
-#### ✈️ Airline Analytics Intelligence Platform  
-> **Tech**: GCP (BigQuery, PostgreSQL), T5 (RAG), FAISS, Pinecone, React  
-- Built a cloud-native aviation dashboard with live SQL querying over 50M+ records  
-- Developed an NLP chatbot using a fine-tuned T5 model to translate natural language into SQL  
-- Integrated hybrid vector search with FAISS + Pinecone for aviation queries  
-- Deployed services on Vertex AI and GKE with robust ETL flows  
-
-#### 📉 Financial Consumer Complaints KPI Dashboard  
-> **Tech**: Tableau, Python, Pandas  
-- Created a KPI-rich Tableau dashboard to monitor 75K+ U.S. consumer complaints  
-- Designed hex maps, dual-axis charts, and lollipop visuals to segment by region and issue  
-- Automated ingestion pipelines for CSV sources using Python, ensuring real-time refreshes  
-
-#### 📈 Stock Market Prediction & Strategy Optimization  
-> **Tech**: LSTM, DQN, Pandas, Seaborn, Matplotlib  
-- Developed a multi-step LSTM model for stock price forecasting with 87% directional accuracy  
-- Built a Deep Q-Network (DQN) agent that learned trading strategies and boosted returns by 26%  
-- Applied rolling window training and feature tuning to handle market volatility  
-
-#### 🗓️ Event Recommendation System – HokieEventSphere  
-> **Tech**: MiniLM, Annoy, FastAPI, PostgreSQL, React, AWS  
-- Built a personalized event recommender using location, clicks & RSVPs  
-- Classified real events using T5 and scraped from Ticketmaster APIs  
-- Hosted full-stack solution with EC2, S3, WebSockets, Cron Jobs, and Airflow orchestration  
+- Building intelligent full-stack platforms using FastAPI, React, PostgreSQL, and scalable ML backends  
+- Designing ML recommendation systems powered by LLMs, embeddings, and vector search (MiniLM + Annoy)  
+- Developing CI/CD workflows and cloud-native deployments using Terraform, EC2, S3, and Kubernetes  
+- Simulating agent-based behavior in AI research using GPT-4 + reinforcement/meta-learning  
 
 ---
 
 ### 📜 Certifications
 
-- 🧠 Oracle Certified Generative AI Professional  
-- 🌐 Google Cloud Machine Learning Engineer (Coursera)  
-- 📊 Deep Learning Specialization (Coursera)  
-- 🧪 IBM Containers & Kubernetes Professional  
-- ☁️ AWS Developer Associate (in progress)  
+- 🎗️ GenAI Certified | Oracle Certified Generative AI Professional  
+- 🎗️ Google Cloud Certified Machine Learning Engineer (Coursera)
+- 🎗️ Deep Learning Specialization (Coursera)  
+- 🎗️ Containers & Kubernetes Professional (IBM)  
+- 🎗️ AWS Certified Developer Associate (in progress)  
 
 ---
 
-### 🤝 Let’s Connect!
+### 💻 Highlight Projects
 
-💬 I’m always happy to discuss **data platforms, AI/ML systems, or cloud-native analytics**  
-📫 saimanasraop@vt.edu | 🌐 [LinkedIn](https://www.linkedin.com/in/saimanasraop/)
+#### 🔹 Full-Stack Recommendation System (HokieEventSphere)
+- Built a personalized event recommender using MiniLM + Annoy with user location, clicks & RSVPs  
+- Scraped & classified real events from Ticketmaster using T5, integrated into AWS-hosted full-stack app  
+- Backend: FastAPI + PostgreSQL | Frontend: React + WebSockets | Infra: EC2, S3, Cron, Airflow  
+
+#### 🔹 Airline Data Explorer & AI Chatbot
+- Created an NLP-based chatbot using RAG and fine-tuned T5 for converting NL queries to SQL  
+- Enabled real-time analytics over 50M+ aviation records using GCP, PostgreSQL, and React  
+- Deployed ETL pipelines with Airflow processing 500GB+ datasets with caching and data sync  
+
+#### 🔹 Financial ML Platform (LSTM + RL)
+- Developed a multi-step stock price predictor using LSTM + feature engineering  
+- Built a DQN-based trader optimizing strategy using model predictions, boosting returns by 26%  
 
 ---
 
-<p align="center"><i>“From dashboards to deep learning — I turn raw data into impact.”</i></p>
+### 🏆 Achievements
+
+- 🧠 GPT-4 powered research featured in Virginia Tech’s Social Dynamics Lab (Spring 2024)  
+- 🔁 Delivered ETL optimizations at scale, handling 1M+ rows using Snowflake + Azure Data Factory  
+
+---
+
+### 🤝 Let’s Connect
+
+- 💬 Ask me about **ML Systems, LLMs, Full-Stack Projects, Cloud Infra & MLOps**  
+- 👯 Open to **SDE, MLE, and Data Engineering** roles | Available from **Summer 2025**  
+- 📫 Reach me at: **saimanasraop@vt.edu**
+
+---
+
+<p align="center"><i>Let's build scalable, intelligent, and impactful systems together.</i></p>
