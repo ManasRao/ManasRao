@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 - ✅ GenAI Certified Professional (Oracle)
-- 🎓 Graduate Student @ Virginia Tech | Master’s in Computer Science (GPA: 3.85)
+- 🎓 Graduate Student @ Virginia Tech | Master’s in Computer Science (GPA: 3.87)
 - 🔬 Researcher in LLMs at the Social Dynamics Lab – built generative agent simulations using GPT-4 + LangChain  
 - 🏗️ Data Engineer @ Northern Tool – productionized Azure/Snowflake pipelines & built CI/CD workflows  
 - 🤖 2 years of ML Engineering @ Epromptus – deployed real-time NLP & time-series ML models to AWS SageMaker  
