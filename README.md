@@ -1,5 +1,5 @@
-<h1 align="center">Hi there! I'm Sai Manas Rao Pulakonti 👋</h1>
-<h3 align="center">Software Engineer | AI/ML Developer | Full Stack & Cloud Enthusiast</h3>
+<h1 align="center">Hi, I'm Sai Manas Rao Pulakonti 👋</h1>
+<h3 align="center">Software Engineer | AI Enthusiast | Full Stack Developer</h3>
 
 <p align="center">
   <a href="mailto:saimanasraop@vt.edu">Email</a> •
@@ -10,103 +10,66 @@
 
 ### 👨‍💻 About Me
 
-- ✅ GenAI Certified Professional (Oracle)
-- 🎓 Graduate Student @ Virginia Tech | Master’s in Computer Science (GPA: 3.87)
-- 🔬 Researcher in LLMs at the Social Dynamics Lab – built generative agent simulations using GPT-4 + LangChain  
-- 🏗️ Data Engineer @ Northern Tool – productionized Azure/Snowflake pipelines & built CI/CD workflows  
-- 🤖 2 years of ML Engineering @ Epromptus – deployed real-time NLP & time-series ML models to AWS SageMaker  
-- 🧠 3+ years of hands-on AI/ML experience building end-to-end systems from model training to cloud deployment  
-- 🧰 Passionate about full-stack systems, vector search & recommendation engines, and ML-powered web apps
+- 🎓 Master’s in Computer Science, Virginia Tech (GPA: 3.87)  
+- 🛠️ Experience across software development, cloud systems, and applied AI  
+- 💼 Built and deployed real-world solutions in data engineering, full-stack apps, and ML workflows  
+- 🔍 Interested in building intelligent, scalable systems that solve real problems  
+- 🌐 Worked with AWS, Azure, and GCP for production deployments  
 
 ---
 
-### 🛠️ Technical Skills
+### 🔧 Technical Skills
 
-<h4>Languages & Cloud</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" alt="AWS"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" alt="Azure"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" alt="GCP"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" alt="Terraform"/>
-</p>
+#### 💻 Programming & Scripting  
+`Python`, `Java`, `C++`, `JavaScript`, `TypeScript`, `SQL`, `Bash`
 
-<h4>AI/ML & Data</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="Scikit-Learn"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" alt="NumPy"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" width="40" alt="Airflow"/>
-  <img src="https://www.vectorlogo.zone/logos/onnxai/onnxai-icon.svg" width="40" alt="ONNX"/>
-</p>
+#### ☁️ Cloud Platforms & DevOps  
+`AWS (S3, EC2, Lambda, SageMaker)`, `Azure (Data Factory, DevOps)`, `GCP (BigQuery, Vertex AI)`  
+`Docker`, `Kubernetes`, `Terraform`, `Git`, `CI/CD (GitHub Actions, GitLab CI)`
 
-<h4>Full Stack & APIs</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" alt="FastAPI"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-</p>
+#### 📊 Data Engineering & MLOps  
+`Airflow`, `Spark`, `Snowflake`, `PostgreSQL`, `MongoDB`, `Redis`  
+`ETL Pipelines`, `Streaming (Kafka)`, `Vector DBs (Annoy, FAISS)`, `API Integration`
+
+#### 🧠 AI / ML Tools  
+`PyTorch`, `TensorFlow`, `Scikit-learn`, `Hugging Face`, `ONNX`, `LangChain`, `OpenAI`, `T5`, `MiniLM`  
+`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `XGBoost`, `LightGBM`
+
+#### 🌐 Web & Full-Stack Development  
+`React`, `Next.js`, `FastAPI`, `Node.js`, `HTML5`, `CSS3`, `Express.js`, `WebSockets`
 
 ---
 
-### 🔭 Current Focus
+### 📌 Projects Snapshot
 
-- Building intelligent full-stack platforms using FastAPI, React, PostgreSQL, and scalable ML backends  
-- Designing ML recommendation systems powered by LLMs, embeddings, and vector search (MiniLM + Annoy)  
-- Developing CI/CD workflows and cloud-native deployments using Terraform, EC2, S3, and Kubernetes  
-- Simulating agent-based behavior in AI research using GPT-4 + reinforcement/meta-learning  
+#### 🎯 Event Recommendation System  
+- Built a full-stack app recommending events using user location and preferences  
+- Stack: FastAPI, React, PostgreSQL, AWS (EC2, S3), Airflow, MiniLM + Annoy  
+
+#### ✈️ Airline Data Explorer  
+- Developed an NLP chatbot to explore 50M+ aviation records in real time  
+- Used fine-tuned T5, PostgreSQL, and deployed on GCP with ETL pipelines  
+
+#### 📈 Financial ML Dashboard  
+- Designed an LSTM-based forecasting tool and a rule-based agent for trading signals  
 
 ---
 
 ### 📜 Certifications
 
-- 🎗️ GenAI Certified | Oracle Certified Generative AI Professional  
-- 🎗️ Google Cloud Certified Machine Learning Engineer (Coursera)
-- 🎗️ Deep Learning Specialization (Coursera)  
-- 🎗️ Containers & Kubernetes Professional (IBM)  
-- 🎗️ AWS Certified Developer Associate (in progress)  
-
----
-
-### 💻 Highlight Projects
-
-#### 🔹 Full-Stack Recommendation System (HokieEventSphere)
-- Built a personalized event recommender using MiniLM + Annoy with user location, clicks & RSVPs  
-- Scraped & classified real events from Ticketmaster using T5, integrated into AWS-hosted full-stack app  
-- Backend: FastAPI + PostgreSQL | Frontend: React + WebSockets | Infra: EC2, S3, Cron, Airflow  
-
-#### 🔹 Airline Data Explorer & AI Chatbot
-- Created an NLP-based chatbot using RAG and fine-tuned T5 for converting NL queries to SQL  
-- Enabled real-time analytics over 50M+ aviation records using GCP, PostgreSQL, and React  
-- Deployed ETL pipelines with Airflow processing 500GB+ datasets with caching and data sync  
-
-#### 🔹 Financial ML Platform (LSTM + RL)
-- Developed a multi-step stock price predictor using LSTM + feature engineering  
-- Built a DQN-based trader optimizing strategy using model predictions, boosting returns by 26%  
-
----
-
-### 🏆 Achievements
-
-- 🧠 GPT-4 powered research featured in Virginia Tech’s Social Dynamics Lab (Spring 2024)  
-- 🔁 Delivered ETL optimizations at scale, handling 1M+ rows using Snowflake + Azure Data Factory  
+- Oracle Certified Generative AI Professional  
+- Google Cloud ML Engineer (Coursera)  
+- Deep Learning Specialization (Coursera)  
+- Containers & Kubernetes (IBM)  
 
 ---
 
 ### 🤝 Let’s Connect
 
-- 💬 Ask me about **ML Systems, LLMs, Full-Stack Projects, Cloud Infra & MLOps**  
-- 👯 Open to **SDE, MLE, and Data Engineering** roles | Available from **Summer 2025**  
-- 📫 Reach me at: **saimanasraop@vt.edu**
+- 📬 saimanasraop@vt.edu  
+- 💡 Open to Software Engineering, Data Engineering, and ML roles  
+- 📍 Based in the U.S. | Available Summer 2025  
 
 ---
 
-<p align="center"><i>Let's build scalable, intelligent, and impactful systems together.</i></p>
+<p align="center"><i>Building practical systems with a touch of intelligence.</i></p>
