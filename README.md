@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="mailto:saimanasraop@vt.edu">Email</a> •
-  <a href="https://www.linkedin.com/in/saimanasraop/">LinkedIn</a>
 </p>
 
 ---
@@ -66,7 +65,7 @@
 
 ### 🤝 Let’s Connect
 
-- 📬 saimanasraop@vt.edu  
+- 📬 manasraopulakonti@gmail.com 
 - 💡 Open to Software Engineering, Data Engineering, and ML roles  
 - 📍 Based in the U.S. | Available Summer 2025  
 
