@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Sai Manas Rao Pulakonti 👋</h1>
 <h3 align="center">Software Engineer | AI Enthusiast | Full Stack Developer</h3>
 
-<p align="center">
-  <a href="mailto:saimanasraop@vt.edu">Email</a> •
-</p>
-
 ---
 
 ### 👨‍💻 About Me
