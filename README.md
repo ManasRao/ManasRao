@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Master’s in Computer Science, Virginia Tech (GPA: 3.87)  
-- 🛠️ Experience across software development, cloud systems, and applied AI  
+- 🛠️ Experience across mobile application development, cloud systems, and applied AI  
 - 💼 Built and deployed real-world solutions in data engineering, full-stack apps, and ML workflows  
 - 🔍 Interested in building intelligent, scalable systems that solve real problems  
 - 🌐 Worked with AWS, Azure, and GCP for production deployments  
@@ -33,6 +33,9 @@
 #### 🌐 Web & Full-Stack Development  
 `React`, `Next.js`, `FastAPI`, `Node.js`, `HTML5`, `CSS3`, `Express.js`, `WebSockets`
 
+#### Mobile App Development
+`Android`, `iOS`, `Jetpack Compose`, `SwiftUI`, `MVVM`, `UIKit`, `React Native`, `Flutter`
+
 ---
 
 ### 📌 Projects Snapshot
@@ -45,8 +48,11 @@
 - Developed an NLP chatbot to explore 50M+ aviation records in real time  
 - Used fine-tuned T5, PostgreSQL, and deployed on GCP with ETL pipelines  
 
-#### 📈 Financial ML Dashboard  
-- Designed an LSTM-based forecasting tool and a rule-based agent for trading signals  
+#### 📈 DataVis-Analytics 
+- An analytics platform enabling CSV file uploads and natural language database querying, leveraging LangGraph
+multi-agent framework with LLM integration for automated SQL generation and real-time chart visualization.
+-  Implemented scalable backend infrastructure using FastAPI, PostgreSQL, and Docker containerization, with au-
+tomated GitHub CI/CD pipeline and comprehensive Pytest 
 
 ---
 
