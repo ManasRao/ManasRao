@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sai Manas Rao Pulakonti 👋</h1>
+<h1 align="center">Hi, I'm Manas Rao  👋</h1>
 <h3 align="center">Machine Learning Engineer| AI Enthusiast | Full Stack Developer</h3>
 
 ---
